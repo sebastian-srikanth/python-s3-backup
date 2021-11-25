@@ -1,0 +1,13 @@
+PyYAML==5.1.2
+
+black
+pytest
+pytest-html
+pytest-cov
+pylint
+radon
+autopep8
+mypy
+
+awscli
+boto3
