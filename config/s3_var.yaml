@@ -1,0 +1,14 @@
+# Local direcotry name -> this folder may have either videos( mov/mp4 ) or photos ( jpeg/png/heic )
+local:
+  local_dir: photos
+
+# s3 bucket details
+upload:
+  s3_bucket_name: your-bucket-name
+  s3_dir: 
+    photo_dir: Photos/2021/November/
+    video_dir: Videos/2021/November/
+    music_dir: Music/2021/November/
+    documents_dir: Documents/2021/November/
+
+
