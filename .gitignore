@@ -1,3 +1,4 @@
+.aws
 remote_ssh
 remote_ssh.pub
-docker.env
+.DS_Store
